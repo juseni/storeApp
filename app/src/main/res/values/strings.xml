@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Cabify Challenge</string>
+    <string name="home_screen_title">Welcome to Cabify challenge store!!</string>
+
+<!-- Screen titles-->
+    <string name="home_title">Cabify Store</string>
+    <string name="products_title">Products</string>
+    <string name="checkout_title">Checkout</string>
+
+    <string name="loading_text">Loading…</string>
+    <string name="error_message_title">Something went wrong!</string>
+    <string name="dismiss_dialog_button_text">OK</string>
+    <string name="close_screen_label">Close Screen!</string>
+
+<!--    Text buttons-->
+    <string name="go_to_products">See all Products</string>
+    <string name="go_to_payment">Go to Checkout</string>
+
+<!--    Discounts-->
+    <string name="two_for_one_prom">Buy two items get 1 for free</string>
+    <string name="three_items_prom">Buy three or more items and get 1€ discount in all items</string>
+    <string name="discount_applied_label">Discount applied!</string>
+
+    <string name="price_format" translatable="false">%.1f €</string>
+    <string name="add_items_button">Add items</string>
+    <string name="total_price_label">Total: %.1f €</string>
+
+<!--    Checkout-->
+    <string name="item_label">Item</string>
+    <string name="price_label">Price</string>
+    <string name="item_name_with_quantity">%s (%d)</string>
+    <string name="make_payment_button">Make payment</string>
+    <string name="payment_success_message">Payment has been successful</string>
+    <string name="payment_fail_message">Payment has been Failed\n\nTry Again!</string>
+</resources>
